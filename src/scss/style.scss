@@ -5,8 +5,9 @@
 @import "./abstracts/mixins";
 
 // base
-@import "./base/normalize";
+
 @import "../../node_modules/bootstrap/scss/bootstrap";
+@import "./base/normalize";
 
 @import "fonts";
 
